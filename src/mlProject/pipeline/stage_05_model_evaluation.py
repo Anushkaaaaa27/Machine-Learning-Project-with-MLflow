@@ -5,7 +5,7 @@ from mlProject import logger
 
 STAGE_NAME = "Model evaluation stage"
 
-class ModelEvaluationTrainingpipeline:
+class ModelEvaluationTrainingPipeline:
     def __init__(self):
         pass
 
@@ -19,7 +19,7 @@ class ModelEvaluationTrainingpipeline:
 if __name__ == '__main__':
     try:
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-        obj = ModelEvaluationTrainingpipeline()
+        obj = ModelEvaluationTrainingPipeline()
         obj.main()
         logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx======x")
     except Exception as e:

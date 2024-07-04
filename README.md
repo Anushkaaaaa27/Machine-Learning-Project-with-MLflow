@@ -45,7 +45,7 @@ python app.py
 
 Now,
 ```bash
-open up you local host and port
+open up your local host and port
 ```
 
 
@@ -62,8 +62,8 @@ open up you local host and port
 [dagshub](https://dagshub.com/)
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Anushkaaaaa27/Machine-Learning-Project-with-MLflow.mlflow\
-MLFLOW_TRACKING_USERNAME=Anushkaaaaa27 \
-MLFLOW_TRACKING_PASSWORD=da380ca37be9250342fc2da07b1ae830b77be2f5\
+MLFLOW_TRACKING_USERNAME=Anushkaaaaa27\
+MLFLOW_TRACKING_PASSWORD=cc17dd1d2b2e6906fcc797fbea35a77ea9b3bfcc\
 python script.py
 
 Run this to export as env variables:
@@ -74,6 +74,6 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/Anushkaaaaa27/Machine-Learning-Pr
 
 export MLFLOW_TRACKING_USERNAME=Anushkaaaaa27 
 
-export MLFLOW_TRACKING_PASSWORD=da380ca37be9250342fc2da07b1ae830b77be2f5
+export MLFLOW_TRACKING_PASSWORD=cc17dd1d2b2e6906fcc797fbea35a77ea9b3bfcc
 
 ```
