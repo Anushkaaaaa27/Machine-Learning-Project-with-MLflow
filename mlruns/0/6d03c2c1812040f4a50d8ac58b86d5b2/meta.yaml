@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/asus/onedrive/desktop/Machine%20Learning%20project%20with%20Mlflow/Machine-Learning-project-with-Mlflow/mlruns/0/6d03c2c1812040f4a50d8ac58b86d5b2/artifacts
+end_time: 1720090516877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d03c2c1812040f4a50d8ac58b86d5b2
+run_name: stately-fish-476
+run_uuid: 6d03c2c1812040f4a50d8ac58b86d5b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720090508380
+status: 3
+tags: []
+user_id: asus
