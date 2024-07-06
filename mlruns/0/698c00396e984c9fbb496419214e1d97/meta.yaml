@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/asus/onedrive/desktop/Machine%20Learning%20project%20with%20Mlflow/Machine-Learning-project-with-Mlflow/mlruns/0/698c00396e984c9fbb496419214e1d97/artifacts
+end_time: 1720092952246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 698c00396e984c9fbb496419214e1d97
+run_name: languid-cod-192
+run_uuid: 698c00396e984c9fbb496419214e1d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720092943638
+status: 3
+tags: []
+user_id: asus
